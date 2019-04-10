@@ -1,6 +1,6 @@
 # CAEN
 Host caen
-  Hostname login.engin.umich.edu
-  User karinape
-  ControlMaster auto
-  ControlPersist 43200
+	Hostname login.engin.umich.edu
+	User karinape
+	ControlMaster auto
+	ControlPersist 43200
